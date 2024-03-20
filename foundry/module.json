@@ -1,0 +1,13 @@
+{
+    "name": "my-foundry-module",
+    "title": "My Foundry Module",
+    "description": "Automatically detects walls in uploaded maps.",
+    "version": "0.1.0",
+    "author": "Your Name",
+    "url": "",
+    "manifest": "",
+    "download": "",
+    "compatibleCoreVersion": "0.7.9",
+    "minimumCoreVersion": "0.7.5",
+    "scripts": ["scripts/main.js"]
+  }
